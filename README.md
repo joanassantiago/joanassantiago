@@ -12,4 +12,4 @@
 </p>
 
 <p>&nbsp;<img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=joanassantiago&show_icons=true&theme=react&locale=en" alt="joanassantiago" /></p>
-<p>&nbsp;<img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanassantiago&show_icons=true&theme=react&locale=en" alt="joanassantiago" /></p>
+<p>&nbsp;<img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanassantiago&show_icons=true&theme=react&locale=en" alt="joanassantiago" <p>&nbsp;
