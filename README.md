@@ -2,8 +2,7 @@
 
 <img align="right" alt="coding" width="300" src="https://im5.ezgif.com/tmp/ezgif-5-e72cca5ceb.gif">
 
-- 🌱 I’m currently learning **python**
-
+- 🌱 I’m currently learning **python** 
 - 📫 How to reach me **joanassantiago@ua.pt**
 
 <h3 align="left">Connect with me:</h3>
