@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name is Joana. Welcome :)</h1>
+<h1 align="center">Welcome :)</h1>
 
 <img align="right" alt="coding" width="300" src="https://im5.ezgif.com/tmp/ezgif-5-86c2b7956f.gif">
 
