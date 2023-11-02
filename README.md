@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **python** 
 - 📫 How to reach me **joanassantiago@ua.pt**
 
-<img align="right" alt="coding" width="300" src="https://im5.ezgif.com/tmp/ezgif-5-86c2b7956f.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joanassantiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joanassantiago" height="30" width="40" /></a>
