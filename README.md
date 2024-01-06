@@ -1,6 +1,6 @@
 <h1 align="center">Welcome :)</h1>
 
-- 🌱 I’m currently learning **python and javascript** 
+- 🌱 I’m currently learning **python and html** 
 - 📫 How to reach me **joanassantiago@ua.pt**
 
 <h3 align="left">Connect with me:</h3>
