@@ -11,7 +11,6 @@
 </p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/BJ-9w-MUVCMAAAAC/tis100-sad.gif">
 <p>&nbsp;<img align="center" width="350" src="https://github-readme-stats.vercel.app/api?username=joanassantiago&show_icons=true&theme=react&locale=en" alt="joanassantiago" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanassantiago&layout=compact&theme=react)
 <!--<p>&nbsp;<img align="center" width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joanassantiago)&show_icons=true&theme=react&locale=en" alt="joanassantiago" /></p>-->
 <p>&nbsp;<img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=joanassantiago&show_icons=true&theme=react&locale=en" alt="joanassantiago" <p>&nbsp;
 <br />
