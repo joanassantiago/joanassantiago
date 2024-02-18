@@ -1,6 +1,6 @@
 <h1 align="center">Welcome :)</h1>
 
-- 🌱 I’m currently studying at Universidade de Aveiro
+- 🌱 I’m currently studying at **Universidade de Aveiro**
 - 📫 How to reach me **joanassantiago@ua.pt**
 
 <h3 align="left">Connect with me:</h3>
