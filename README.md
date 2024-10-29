@@ -2,14 +2,21 @@
 
 <br>
 <br>
+<div align="center">
 
-<div align="center" >
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rowdies&pause=1000&color=FFFFFF&center=true&Center=true&width=435&lines=Hi+there%2C+welcome+to+my+profile+%3A\))](https://git.io/typing-svg)
+
 <p>My name is Joana and I'm a Computer and Informatics Engineering Student. I like web design and to play video games 👾</p>
+
 <p>I also like to stream on twitch but I'm not gonna tell you what's my name there heheh</p>
 
+<p>
+  
+  You can add me on discord: `joaninhams`</p>
+
 </div>
+
 <br>
 
 <div align="center">
@@ -23,7 +30,7 @@
 <br>
 
 <div align="center"> 
-<p>If you like you can view my socials and send me an email</p>
+<p>If you like you can view my socials and send me an email!</p>
 <a href="https://instagram.com/joanassantiago" target="_blank">
 <img align="center" height="44" width="44" src="https://github.com/user-attachments/assets/bffacbfb-afbd-495f-96c3-8892a9d347e1">
 </a>
