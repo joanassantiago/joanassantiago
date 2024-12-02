@@ -9,7 +9,7 @@
 
 <p>My name is Joana and I'm a Computer and Informatics Engineering Student at Universidade de Aveiro. I like web design and to play video games 👾</p>
 
-<p>I also like to stream on twitch but I'm not gonna tell you what's my name there heheh</p>
+<p>I also like to stream on twitch hehehe</p>
 
 <p>
   
