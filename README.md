@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rowdies&pause=1000&color=FFFFFF&center=true&Center=true&width=435&lines=Hi+there%2C+welcome+to+my+profile+%3A\))](https://git.io/typing-svg)
 
-<p>My name is Joana and I'm a Computer and Informatics Engineering Student at Universidade de Aveiro. I like web design and to play video games 👾</p>
+<p>My name is Joana and I'm a Computer and Informatics Engineering Student at Universidade de Aveiro. I like web design/front-end development and to play video games 👾</p>
 
 <p>I also like to stream on twitch hehehe</p>
 
