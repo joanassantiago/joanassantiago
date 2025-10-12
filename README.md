@@ -102,13 +102,13 @@
 <br>
 <br>
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjoanassantiago&s=40&c=75a6e6&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits" /></p> 
+<p align="center"><img align="center" src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fjoanassantiago&label=visits&icon=github&color=%239ec5fe&message=&style=flat&tz=Portugal"" alt="visits" /></p> 
 <br>
 </div>
 
 
 
-
+<!-- "https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjoanassantiago&s=40&c=75a6e6&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta="-->
 
 
 
