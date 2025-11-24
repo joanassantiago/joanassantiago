@@ -29,7 +29,7 @@
 
 <br>
 
-<div align="center"> 
+<!--<div align="center"> 
 <p>If you like you can view my socials or send me an email!</p>
 <a href="https://instagram.com/joanassantiago" target="_blank">
 <img align="center" height="44" width="44" src="https://github.com/user-attachments/assets/bffacbfb-afbd-495f-96c3-8892a9d347e1">
@@ -49,7 +49,7 @@
   
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/joanassantiago?chart=calendar&weeks=15&theme=cyan&dark=true) 
 
-</div>
+</div> 
 
 
 ### Main skills:
